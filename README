@@ -1,0 +1,5 @@
+This is a small program to check update on the website of a adoption organization. The program will send me email to inform me that one of the dogs I am waiting for is finally ready for adoption.
+
+This script run with Python 2.7
+To run this script you need to install requests and json module.
+To send the email with gmail, you need to turn on the setting for allow low security app to access.
